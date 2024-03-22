@@ -7,3 +7,6 @@ All files are available to download via the link in their title.
 - Terms of Use: the app’s terms of use, which describes the conditions to use the app and the limitations of responsibilities;
 - Frequently Asked Questions (FAQ): the app’s FAQ, which describes the app and its works, especially about the emotion recognition mechanism, but also about the user experience evaluation model;
 - Usability Test Script: a document with the presentation of the test, the think-aloud protocol recommendations, and the descriptions of four tasks. The tasks covered pre-execution in UXAPP, execution in the site to be tested, and pos-execution in UXAPP again. This document guided the participants through all the steps they should take.
+- Spreadsheet with experiment's data: the raw data obtained from the user and after the UXAPP analysis.
+- Spreadsheet with the experiment's data analysis: another spreadsheet with the experiment's data analysis and definitions, such as the site functionalities, style guide, and graphics.
+- Code of the UXAPP engine API: the API code in python to perform UX evaluation.
